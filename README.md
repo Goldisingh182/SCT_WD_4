@@ -41,7 +41,7 @@
  
   🌐 Live link: 
   
-  👉 GitHub Repository:
+  👉 GitHub Repository:https://github.com/Goldisingh182/SCT_WD_4
  # 📂 Project Structure
  SCT_WD_4
 
@@ -70,7 +70,7 @@
 
 📧 Email:goldisinghrajput2006@gmail.com
 
-🔗 GitHub:
+🔗 GitHub:https://github.com/Goldisingh182/SCT_WD_4
 
 🌐 Live Project : 
 
